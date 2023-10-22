@@ -6,8 +6,7 @@ finished recently.
  
   - [Bayes Rules!: An Introduction to Applied Bayesian Modeling](https://www.librarything.com/work/28029572)
  - [Statistical Rethinking: A Bayesian Course with Examples in R and Stan](https://www.librarything.com/work/16955083)
- - [Philosophical Investigations](https://www.librarything.com/work/25218)
- - [Usagi Yojimbo Saga, Book 2](https://www.librarything.com/work/15487506) 
+ - [Philosophical Investigations](https://www.librarything.com/work/25218) 
 
 ##  Recently Read 
  
@@ -17,4 +16,5 @@ finished recently.
  - [A Wizard of Earthsea](https://www.librarything.com/work/1581326)
  - [Bullshit Jobs: A Theory](https://www.librarything.com/work/21372389)
  - [In the Land of Invented Languages: Esperanto Rock Stars, Klingon Poets, Loglan Lovers, and the Mad Dreamers Who Tried to Build a Perfect Language](https://www.librarything.com/work/8077823)
- - [The League of Extraordinary Gentlemen, Volume II](https://www.librarything.com/work/27185) 
+ - [The League of Extraordinary Gentlemen, Volume II](https://www.librarything.com/work/27185)
+ - [Usagi Yojimbo Saga, Book 2](https://www.librarything.com/work/15487506) 
