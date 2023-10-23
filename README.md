@@ -4,7 +4,8 @@ finished recently.
 
 ##  Reading 
  
-  - [Bayes Rules!: An Introduction to Applied Bayesian Modeling](https://www.librarything.com/work/28029572)
+  - [Batman: Dark Victory](https://www.librarything.com/work/215296/)
+ - [Bayes Rules!: An Introduction to Applied Bayesian Modeling](https://www.librarything.com/work/28029572)
  - [Statistical Rethinking: A Bayesian Course with Examples in R and Stan](https://www.librarything.com/work/16955083)
  - [Philosophical Investigations](https://www.librarything.com/work/25218) 
 
