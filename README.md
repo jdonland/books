@@ -4,7 +4,7 @@ finished recently.
 
 ##  Reading 
  
-  - [Answers in the Form of Questions: A Definitive History and Insider's Guide to Jeopardy!](NA)
+  - [Answers in the Form of Questions: A Definitive History and Insider's Guide to Jeopardy!](https://www.librarything.com/work/25279109)
  - [Bayes Rules!: An Introduction to Applied Bayesian Modeling](https://www.librarything.com/work/28029572)
  - [Statistical Rethinking: A Bayesian Course with Examples in R and Stan](https://www.librarything.com/work/16955083)
  - [Philosophical Investigations](https://www.librarything.com/work/25218) 
