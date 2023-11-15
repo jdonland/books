@@ -4,17 +4,15 @@ finished recently.
 
 ##  Reading 
  
-  - [Answers in the Form of Questions: A Definitive History and Insider's Guide to Jeopardy!](https://www.librarything.com/work/25279109)
- - [Bayes Rules!: An Introduction to Applied Bayesian Modeling](https://www.librarything.com/work/28029572)
- - [Statistical Rethinking: A Bayesian Course with Examples in R and Stan](https://www.librarything.com/work/16955083)
+  - [Bayes Rules!](https://www.librarything.com/work/28029572)
+ - [Statistical Rethinking](https://www.librarything.com/work/16955083)
  - [Philosophical Investigations](https://www.librarything.com/work/25218) 
 
 ##  Recently Read 
  
-  - [The Pomodoro Technique: The Acclaimed Time-Management System That Has Transformed How We Work](https://www.librarything.com/work/9337917)
+  - [The Pomodoro Technique](https://www.librarything.com/work/9337917)
  - [The Farthest Shore](https://www.librarything.com/work/50094)
- - [The Tombs of Atuan](https://www.librarything.com/work/12800)
  - [Bullshit Jobs: A Theory](https://www.librarything.com/work/21372389)
- - [In the Land of Invented Languages: Esperanto Rock Stars, Klingon Poets, Loglan Lovers, and the Mad Dreamers Who Tried to Build a Perfect Language](https://www.librarything.com/work/8077823)
  - [Usagi Yojimbo Saga, Book 2](https://www.librarything.com/work/15487506)
- - [Batman: Dark Victory](https://www.librarything.com/work/215296/) 
+ - [Batman: Dark Victory](https://www.librarything.com/work/215296/)
+ - [Answers in the Form of Questions](https://www.librarything.com/work/25279109) 
