@@ -6,7 +6,8 @@ finished recently.
  
   - [Bayes Rules!](https://www.librarything.com/work/28029572)
  - [Statistical Rethinking](https://www.librarything.com/work/16955083)
- - [Philosophical Investigations](https://www.librarything.com/work/25218) 
+ - [Philosophical Investigations](https://www.librarything.com/work/25218)
+ - [The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century](https://www.librarything.com/work/123741) 
 
 ##  Recently Read 
  
