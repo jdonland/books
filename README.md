@@ -10,12 +10,12 @@ finished recently.
 
 ##  Reading 
  
-  - [Storytelling With Data: A Data Visualization Guide for Business Professionals](https://www.librarything.com/work/16714111/) 
+  - [Catwoman: When in Rome](https://www.librarything.com/work/215397) 
 
 ##  Recently Read 
  
   - [Under the Frog](https://www.librarything.com/work/93631)
  - [Superman for All Seasons](https://www.librarything.com/work/205049/)
- - [The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century](https://www.librarything.com/work/123741)
  - [Empire of the Sum: The Rise and Reign of the Pocket Calculator](https://www.librarything.com/work/29555035/)
- - [Classic Style: Hand It Down, Dress It Up, Wear It Out](https://www.librarything.com/work/19626818) 
+ - [Classic Style: Hand It Down, Dress It Up, Wear It Out](https://www.librarything.com/work/19626818)
+ - [Storytelling With Data: A Data Visualization Guide for Business Professionals](https://www.librarything.com/work/16714111/) 

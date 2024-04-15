@@ -11,7 +11,6 @@ finished recently.\n" -> intro
 read_csv("books.csv", show_col_types = F) |>
   select(status, title, link) |>
   filter(status != "read", status != "to-read") |>
-  arrange(status) |>
   mutate(status = paste("\n## ", str_to_title(status), "\n"),
          title = paste0(" - [", title, "](", link, ")"),
          .keep = "used") |>
