@@ -10,8 +10,7 @@ finished recently.
 
 ##  Reading 
  
-  - [Tao: The Watercourse Way](https://www.librarything.com/work/11328)
- - [A Canticle for Leibowitz](https://www.librarything.com/work/48053) 
+  - [Tao: The Watercourse Way](https://www.librarything.com/work/11328) 
 
 ##  Recently Read 
  
@@ -19,4 +18,5 @@ finished recently.
  - [Superman for All Seasons](https://www.librarything.com/work/205049/)
  - [Empire of the Sum: The Rise and Reign of the Pocket Calculator](https://www.librarything.com/work/29555035/)
  - [Classic Style: Hand It Down, Dress It Up, Wear It Out](https://www.librarything.com/work/19626818)
- - [Storytelling With Data: A Data Visualization Guide for Business Professionals](https://www.librarything.com/work/16714111/) 
+ - [Storytelling With Data: A Data Visualization Guide for Business Professionals](https://www.librarything.com/work/16714111/)
+ - [A Canticle for Leibowitz](https://www.librarything.com/work/48053) 
