@@ -10,7 +10,8 @@ finished recently.
 
 ##  Reading 
  
-  - [Tao: The Watercourse Way](https://www.librarything.com/work/11328) 
+  - [Tao: The Watercourse Way](https://www.librarything.com/work/11328)
+ - [A Canticle for Leibowitz](https://www.librarything.com/work/48053) 
 
 ##  Recently Read 
  
