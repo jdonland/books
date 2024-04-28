@@ -14,9 +14,7 @@ finished recently.
 
 ##  Recently Read 
  
-  - [Superman for All Seasons](https://www.librarything.com/work/205049/)
- - [Empire of the Sum: The Rise and Reign of the Pocket Calculator](https://www.librarything.com/work/29555035/)
- - [Tao: The Watercourse Way](https://www.librarything.com/work/11328)
+  - [Tao: The Watercourse Way](https://www.librarything.com/work/11328)
  - [Storytelling With Data: A Data Visualization Guide for Business Professionals](https://www.librarything.com/work/16714111/)
  - [A Canticle for Leibowitz](https://www.librarything.com/work/48053)
  - [Tintin in the Land of the Soviets / Tintin in the Congo](https://www.librarything.com/work/4047110)
