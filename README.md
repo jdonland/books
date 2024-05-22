@@ -17,5 +17,5 @@ finished recently.
   - [Tao: The Watercourse Way](https://www.librarything.com/work/11328)
  - [Storytelling With Data: A Data Visualization Guide for Business Professionals](https://www.librarything.com/work/16714111/)
  - [A Canticle for Leibowitz](https://www.librarything.com/work/48053)
- - [Tintin in the Land of the Soviets / Tintin in the Congo](https://www.librarything.com/work/4047110)
- - [The Complete Far Side, Volume One: January 1980 to June 1984](https://www.librarything.com/work/58291) 
+ - [The Complete Far Side, Volume One: January 1980 to June 1984](https://www.librarything.com/work/58291)
+ - [The Broken Ear](https://www.librarything.com/work/163217) 
