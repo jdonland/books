@@ -10,7 +10,7 @@ finished recently.
 
 ##  Reading 
  
-  - [The Theory that Would Not Die: How Bayes' Rule Cracked the Enigma Code, Hunted Down Russian Submarines, and Emerged Triumphant from Two Centuries of Controversy](https://www.librarything.com/work/11186931) 
+  - [The Shooting Star](https://www.librarything.com/work/7958) 
 
 ##  Recently Read 
  
@@ -18,4 +18,4 @@ finished recently.
  - [Storytelling With Data: A Data Visualization Guide for Business Professionals](https://www.librarything.com/work/16714111/)
  - [A Canticle for Leibowitz](https://www.librarything.com/work/48053)
  - [The Complete Far Side, Volume One: January 1980 to June 1984](https://www.librarything.com/work/58291)
- - [The Broken Ear](https://www.librarything.com/work/163217) 
+ - [The Crab with the Golden Claws](https://www.librarything.com/work/7880) 
