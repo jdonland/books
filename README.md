@@ -10,7 +10,7 @@ finished recently.
 
 ##  Reading 
  
-  - [The Secret of the Unicorn](https://www.librarything.com/work/7954) 
+  - [The Seven Crystal Balls](https://www.librarything.com/work/7956) 
 
 ##  Recently Read 
  
@@ -18,4 +18,4 @@ finished recently.
  - [Storytelling With Data: A Data Visualization Guide for Business Professionals](https://www.librarything.com/work/16714111/)
  - [A Canticle for Leibowitz](https://www.librarything.com/work/48053)
  - [The Complete Far Side, Volume One: January 1980 to June 1984](https://www.librarything.com/work/58291)
- - [The Shooting Star](https://www.librarything.com/work/7958) 
+ - [Red Rackham's Treasure](https://www.librarything.com/work/7758) 
