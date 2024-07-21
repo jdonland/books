@@ -10,12 +10,9 @@ finished recently.
 
 ##  Reading 
  
-  - [Land of Black Gold](https://www.librarything.com/work/1900964) 
+  - [The Red Sea Sharks](https://www.librarything.com/work/7948) 
 
 ##  Recently Read 
  
   - [Tao: The Watercourse Way](https://www.librarything.com/work/11328)
- - [Storytelling With Data: A Data Visualization Guide for Business Professionals](https://www.librarything.com/work/16714111/)
- - [A Canticle for Leibowitz](https://www.librarything.com/work/48053)
- - [The Complete Far Side, Volume One: January 1980 to June 1984](https://www.librarything.com/work/58291)
- - [Prisoners of the Sun](https://www.librarything.com/work/70033) 
+ - [The Calculus Affair](https://www.librarything.com/work/3173232) 
