@@ -10,9 +10,9 @@ finished recently.
 
 ##  Reading 
  
-  - [The Red Sea Sharks](https://www.librarything.com/work/7948) 
+  - [The Castafiore Emerald](https://www.librarything.com/work/7454) 
 
 ##  Recently Read 
  
   - [Tao: The Watercourse Way](https://www.librarything.com/work/11328)
- - [The Calculus Affair](https://www.librarything.com/work/3173232) 
+ - [Tintin in Tibet](https://www.librarything.com/work/6442715) 
