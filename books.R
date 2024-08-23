@@ -11,14 +11,14 @@ finished recently.\n" -> intro
 read_csv("books.csv", show_col_types = F) |>
   select(status, title, link) |>
   filter(status != "read", status != "to-read") |>
-  mutate(status = paste("\n## ", str_to_title(status), "\n"),
-         title = paste0(" - [", title, "](", link, ")"),
+  mutate(status = str_c("\n## ", str_to_title(status), "\n"),
+         title = str_c(" - [", title, "](", link, ")"),
          .keep = "used") |>
   group_by(status) |>
-  summarize(content = paste0(title, collapse = "\n")) |>
-  mutate(content = paste(status, "\n", content, "\n")) |>
+  summarize(content = str_c(title, collapse = "\n")) |>
+  mutate(content = str_c(status, "\n", content, "\n")) |>
   pull(content) |>
-  paste0(collapse = "") |>
+  str_c(collapse = "") |>
   c(intro) |>
   rev() |>
   paste(collapse = "") |>
