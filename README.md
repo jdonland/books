@@ -17,3 +17,4 @@ finished recently.
  - [Tao: The Watercourse Way](https://www.librarything.com/work/11328)
  - [Tintin and Alph-Art](https://www.librarything.com/work/163242)
  - [Tintin: Hergé's Masterpiece](https://www.librarything.com/work/16309028)
+ - [A Type Primer](https://www.librarything.com/work/605759)
