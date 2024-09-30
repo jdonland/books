@@ -11,6 +11,7 @@ finished recently.
 ## Reading
 
  - [How to Chart Data](https://www.librarything.com/work/10086304/)
+ - [Thorn: The Complete Proto-Bone College Strips 1982-1986 and Other Early Drawings](https://www.librarything.com/work/31921500/)
 
 ## Recently Read
 
